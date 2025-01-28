@@ -1,0 +1,9 @@
+tweepy>=4.12
+redis>=4.5
+celery>=5.3
+nltk>=3.8
+scikit-learn>=1.2
+alpaca-trade-api>=2.3
+backtrader>=1.9
+yfinance>=0.2
+pandas>=2.0
